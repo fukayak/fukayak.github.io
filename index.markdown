@@ -14,7 +14,7 @@ layout: home
       {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
     </header><br><br>
     <body link="#ffffff" vlink="#ffffff" alink="#ffffff">
-    <h1 style="text-align:center"><a href="https://www.google.co.jp/">English</a> / <a href="https://www.google.co.jp/">日本語</a></h1>
+    <h1 style="text-align:center"><a href="https://fukayak.github.io/en/index.html">English</a> / <a href="https://fukayak.github.io/jp/index.html">日本語</a></h1>
     </body>
   </div>
 </div>
